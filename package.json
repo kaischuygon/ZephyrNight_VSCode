@@ -1,0 +1,53 @@
+{
+  "name": "zephyrnight",
+  "displayName": "Zephyr Night",
+  "version": "0.1.0",
+  "publisher": "kaischuygon",
+  "description": "A dark theme for VSCode",
+  "author": {
+    "name": "Kai Schuyler Gonzalez"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zephyr Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZephyrNight-color-theme.json"
+      }
+    ]
+  },
+  "icon": "screenshots/icon.png",
+  "galleryBanner": {
+    "color": "#00D9FF",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Dark Theme",
+    "Synthwave",
+    "Nocturnal",
+    "Night",
+    "color-theme"
+  ],
+  "activationEvents": [
+    "onLanguage:markdown"
+  ],
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "main": "./out/extension",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/kaischuygon/ZephyrNight_VSCode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaischuygon/ZephyrNight_VSCode.git"
+  },
+  "homepage": "https://github.com/kaischuygon/ZephyrNight_VSCode",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3"
+  }
+}

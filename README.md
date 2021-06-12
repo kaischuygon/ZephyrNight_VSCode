@@ -1,0 +1,10 @@
+# Zephyr Night
+![Logo](screenshots/logo.png)
+
+A dark theme for VSCode
+
+## Installation
+This theme is available for free in the [Visual Studio Code Marketplace]().
+
+## Screenshots
+![Screenshot 1](screenshots/screenshots.png)
