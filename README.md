@@ -1,6 +1,4 @@
 # Zephyr Night
-![Logo](screenshots/logo.png)
-
 A dark theme for VSCode
 
 ## Installation
