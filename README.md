@@ -9,4 +9,5 @@ If you find any issues, please post in the [issues tab](https://github.com/kaisc
 
 ## More
 * If you like this theme, please [rate it](https://marketplace.visualstudio.com/items?itemName=kaischuygon.zephyrnight&ssr=false#review-details)!
-* Get the matching theme for chromium-based browers: [Zephyr Night for Chrome](https://github.com/kaischuygon/ZephyrNight_Chrome)
+* Get the matching theme for chromium-based browsers: [Zephyr Night for Chrome](https://github.com/kaischuygon/ZephyrNight_Chrome)
+* Get the matching theme for Firefox browsers: [Zephyr Night for Firefox](https://github.com/kaischuygon/ZephyrNight_Firefox)
