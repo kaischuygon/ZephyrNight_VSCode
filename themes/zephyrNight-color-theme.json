@@ -167,8 +167,6 @@
     "welcomePage.buttonBackground": "#0055ff",
     "welcomePage.buttonHoverBackground": "#0055ff88",
     "widget.shadow": "#E4E8F144",
-    "window.activeBorder": "#ff0073",
-    "window.inactiveBorder": "#ff007388",
     "debugToolBar.background": "#101627",
     "debugToolBar.border": "#ff0073"
   },
